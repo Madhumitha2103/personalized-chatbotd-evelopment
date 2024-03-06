@@ -31,8 +31,9 @@ This repository contains the code for the Trip Planner Chatbot API, which is dev
     "query": "I want to plan a trip to Paris."
 }
 
+Replace "user1" with the user ID and "I want to plan a trip to Paris." with the user query
 
-The API will respond with a JSON object containing the chatbot response.
+>The API will respond with a JSON object containing the chatbot response.
 Implementation Details
 The chatbot API is implemented using Flask, a lightweight web framework for Python.
 Natural Language Processing (NLP) techniques are used to understand user queries and extract relevant information.
