@@ -1,4 +1,4 @@
-# personalized-chatbotd-evelopment
+# personalized-chatbot-development
 Personalized Chatbot Development - Trip Planner
 
 # Personalized Chatbot API for Trip Planner
